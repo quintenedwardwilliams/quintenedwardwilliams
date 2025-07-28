@@ -12,13 +12,14 @@ I believe that the best tools are born from a deep understanding of the people w
 - 🤔 I am open to discussing design concepts.
 - 💬 Ask why I chose to work in UX research and design.
 - 📫 You can reach me by sending me a message here, or reach out over LinkedIn.
-- ⚡ Fun fact: I enjoy going for walks with my dog and hanging with human friends!
+- ⚡ Fun fact: I enjoy going for walks with my dog and hanging out with human friends!
 
 ---
 
 ### Find Me Around the Web:
 *   💼 **Portfolio:** [quintenedwardwilliams.com](https://www.quintenedwardwilliams.com)
 *   🔗 **LinkedIn:** [linkedin.com/in/qewilliams](https://www.linkedin.com/in/qewilliams)
+*   🗄️ **Archived projects:**  [archive.quintenedwardwilliams.com](https://www.archive.quintenedwardwilliams.com)
 
 ### My Toolkit:
 *   **Design & Prototyping:** Figma, Miro, Adobe Creative Suite
