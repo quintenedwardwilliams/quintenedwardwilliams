@@ -11,7 +11,7 @@ I believe that the best tools are born from a deep understanding of the people w
 - 👯 I’m looking to collaborate on UX Research and Design open-source projects.
 - 🤔 I am open to discussing design concepts.
 - 💬 Ask why I chose to work in UX research and design.
-- 📫 You can reach me by sending me a message here, or reach out over LinkedIn.
+- 📫 You can reach me by sending me a message on LinkedIn.
 - ⚡ Fun fact: I enjoy going for walks with my dog and hanging out with human friends!
 
 ---
