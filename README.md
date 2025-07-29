@@ -1,8 +1,10 @@
 # Quinten Edward Williams | UI/UX Product Designer
 
-Hi there! 👋 I'm a technically-minded UX Designer passionate about simplifying complex systems and improving the developer experience. My work focuses on bridging the gap between deep user research and intuitive, functional product design.
+Hi there!
 
-I believe that the best tools are born from a deep understanding of the people who use them, and I'm dedicated to creating frictionless workflows and user experiences. 
+I'm a UX Researcher & Designer passionate about simplifying complex systems and creating intuitive user experiences. I specialize in bridging deep user insights with functional, thoughtful design.
+
+I believe the best products come from understanding the people who use them—and I'm dedicated to crafting workflows and experiences that feel natural, efficient, and human-centred.
 
 ---
 
@@ -28,4 +30,4 @@ I believe that the best tools are born from a deep understanding of the people w
 
 ---
 
-*This repository is used to document my design process, case studies, and thoughts on UX for developer tools.*
+*This repository is used to document my design process, case studies, and thoughts on creating products informed by UX Research and Design.*
